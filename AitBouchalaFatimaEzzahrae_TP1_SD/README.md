@@ -27,6 +27,7 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 8. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/df5cf76d-50c0-4ea3-a304-d7c29e7961b1)
 
 9. Faire l'injection des dépendances :
+    
   a. Par instanciation statique
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/29da8090-c68a-4cb7-b77e-945a6577e040)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/654e0350-3c5a-4e72-a2ef-68c979286eb1)
@@ -38,11 +39,13 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 
 
   b. Par instanciation dynamique
+  
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7e080e13-23f6-4b1d-b18f-9ba824ed470d)
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/ab9456e1-509e-423e-8ff4-c96df6c079cb)
 
 
   c. En utilisant le Framework Spring
+  
        - Version XML
 
               
@@ -53,15 +56,14 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8ed01846-c7cb-4f39-b68b-6a22a3e079ea)
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f1cf1878-6538-4d94-8dca-e460c36f3efd)
   
-##la version web service 
+#### la version web service 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/80b8bf4c-1ec5-4a40-8e3c-c0f72d8c8016)
-![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/37369cfd-765d-40af-87bc-101a288131ac)
 
 
 - Version annotations
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/48a3456f-e2bb-40a6-8619-67a23ea5f76b)
 
-### le Test unitaire :
+#### le Test unitaire :
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/2d779444-398e-4c21-b0a2-44aa2db29598)
 
 

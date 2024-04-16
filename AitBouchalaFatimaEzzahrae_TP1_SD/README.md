@@ -34,7 +34,7 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/00c67b11-c404-422e-9e77-2c218617a2ec)
 
 
-### la version  web service
+### la version  web service:
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0ae05f4d-4105-4e26-b279-34f7a7418fd9)
 
 
@@ -49,14 +49,14 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
        - Version XML
 
               
-  #### le fichier Pom.xml
+  #### le fichier Pom.xml:
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7516d29e-6e02-4f97-b846-14f74e593b9b)
 
   
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8ed01846-c7cb-4f39-b68b-6a22a3e079ea)
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f1cf1878-6538-4d94-8dca-e460c36f3efd)
   
-#### la version web service 
+#### la version web service:
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/80b8bf4c-1ec5-4a40-8e3c-c0f72d8c8016)
 
 
@@ -69,7 +69,7 @@ par constructeur:
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/78787429-66f5-438c-8d66-5b85a40aebf8)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9b8fdd10-8250-4679-a6cf-bc0ffca2ad4f)
 
-####Les commande de base en Intellij
+#### Les commande de base en Intellij:
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/078cd3e3-9a3f-440d-a1be-8237093b6d3e)
 

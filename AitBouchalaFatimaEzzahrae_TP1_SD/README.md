@@ -44,7 +44,7 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 
   c. En utilisant le Framework Spring
        - Version XML
-       - Version annotations
+
               
   #### le fichier Pom.xml
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7516d29e-6e02-4f97-b846-14f74e593b9b)
@@ -53,8 +53,27 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8ed01846-c7cb-4f39-b68b-6a22a3e079ea)
   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f1cf1878-6538-4d94-8dca-e460c36f3efd)
   
-### la version web service 
-        bv
+##la version web service 
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/80b8bf4c-1ec5-4a40-8e3c-c0f72d8c8016)
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/37369cfd-765d-40af-87bc-101a288131ac)
+
+
+- Version annotations
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/48a3456f-e2bb-40a6-8619-67a23ea5f76b)
+
+### le Test unitaire :
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/2d779444-398e-4c21-b0a2-44aa2db29598)
+
+
+ 
+
+
+
+
+
+
+
+      
     
 
 

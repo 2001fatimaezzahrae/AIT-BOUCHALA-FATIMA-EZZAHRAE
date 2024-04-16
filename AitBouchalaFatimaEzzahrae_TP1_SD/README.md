@@ -1,10 +1,15 @@
-##Activité Pratique N° 1- Injection des dépendances
+## Activité Pratique N° 1- Injection des dépendances
 
-##Module:Systèmes Distribués
+## Module:Systèmes Distribués
 
-##Master SD FS MEKNES 2024
+## Master SD FS MEKNES 2024
 
-##Ait Bouchala Fatima Ezzahrae
+## Ait Bouchala Fatima Ezzahrae
+
+# Invertion de contrôle :
+le concept Invertion de contrôle permet au programmeur de  se concentrer sur les aspects fonctionnels  et les Framework pour les aspects techniques .
+-->Si une classe dépende d’autre classe donc on parle sur couplage fort.
+-->Si une classe qui dépende  ou implémente une interface donc on est dans le couplage faible. donc le but est de creer une aaplication fermée a modification est ouvert  a extension. 
 
 
 1. Créer l'interface IDao avec une méthode getDate
@@ -21,15 +26,36 @@
 
 9. Faire l'injection des dépendances :
   a. Par instanciation statique
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/29da8090-c68a-4cb7-b77e-945a6577e040)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/654e0350-3c5a-4e72-a2ef-68c979286eb1)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/00c67b11-c404-422e-9e77-2c218617a2ec)
 
 
+# la version  web service
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0ae05f4d-4105-4e26-b279-34f7a7418fd9)
+
+
   b. Par instanciation dynamique
-  ![Uploading image.png…]()
-  ![Uploading image.png…]()
+  ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7e080e13-23f6-4b1d-b18f-9ba824ed470d)
+  ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/ab9456e1-509e-423e-8ff4-c96df6c079cb)
 
 
   c. En utilisant le Framework Spring
        - Version XML
        - Version annotations
+              
+       le fichier Pom.xml
+              ![Uploading image.png…]()
+       ![Uploading image.png…]()
+
+       # la version web service 
+       
+       ![Uploading image.png…]()
+       ![Uploading image.png…]()
+
+
+
+
+       
+
+

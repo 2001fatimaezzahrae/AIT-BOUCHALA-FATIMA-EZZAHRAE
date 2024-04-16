@@ -45,13 +45,11 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
        - Version annotations
               
        le fichier Pom.xml
-              ![Uploading image.png…]()
-       ![Uploading image.png…]()
+          
 
        # la version web service 
        
-       ![Uploading image.png…]()
-       ![Uploading image.png…]()
+    
 
 
 

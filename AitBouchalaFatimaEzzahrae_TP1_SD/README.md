@@ -47,9 +47,13 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
        - Version annotations
               
   #### le fichier Pom.xml
-          
+  ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7516d29e-6e02-4f97-b846-14f74e593b9b)
 
-  ### la version web service 
+  
+  ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8ed01846-c7cb-4f39-b68b-6a22a3e079ea)
+  ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f1cf1878-6538-4d94-8dca-e460c36f3efd)
+  
+### la version web service 
        
     
 

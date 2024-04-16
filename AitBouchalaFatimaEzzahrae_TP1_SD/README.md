@@ -6,9 +6,11 @@
 
 ## Ait Bouchala Fatima Ezzahrae
 
-# Invertion de contrôle :
+### Invertion de contrôle :
 le concept Invertion de contrôle permet au programmeur de  se concentrer sur les aspects fonctionnels  et les Framework pour les aspects techniques .
+
 -->Si une classe dépende d’autre classe donc on parle sur couplage fort.
+
 -->Si une classe qui dépende  ou implémente une interface donc on est dans le couplage faible. donc le but est de creer une aaplication fermée a modification est ouvert  a extension. 
 
 
@@ -31,7 +33,7 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/00c67b11-c404-422e-9e77-2c218617a2ec)
 
 
-# la version  web service
+### la version  web service
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0ae05f4d-4105-4e26-b279-34f7a7418fd9)
 
 
@@ -44,10 +46,10 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
        - Version XML
        - Version annotations
               
-       le fichier Pom.xml
+  #### le fichier Pom.xml
           
 
-       # la version web service 
+  ### la version web service 
        
     
 

@@ -63,6 +63,15 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 - Version annotations
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/48a3456f-e2bb-40a6-8619-67a23ea5f76b)
 
+par constructeur:
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/78787429-66f5-438c-8d66-5b85a40aebf8)
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9b8fdd10-8250-4679-a6cf-bc0ffca2ad4f)
+
+####Les commande de base en Intellij
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/078cd3e3-9a3f-440d-a1be-8237093b6d3e)
+
+
+
 #### le Test unitaire :
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/2d779444-398e-4c21-b0a2-44aa2db29598)
 

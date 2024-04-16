@@ -29,6 +29,7 @@ le concept Invertion de contrôle permet au programmeur de  se concentrer sur le
 9. Faire l'injection des dépendances :
     
   a. Par instanciation statique
+  
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/29da8090-c68a-4cb7-b77e-945a6577e040)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/654e0350-3c5a-4e72-a2ef-68c979286eb1)
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/00c67b11-c404-422e-9e77-2c218617a2ec)

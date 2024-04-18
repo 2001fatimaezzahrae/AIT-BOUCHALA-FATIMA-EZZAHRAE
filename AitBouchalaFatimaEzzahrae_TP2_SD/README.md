@@ -1,4 +1,11 @@
+## Ait Bouchala Fatima Ezzahrae
+
 ## Activité Pratique N°2 - Spring Data JPA Hibernate
+
+## Module:Systèmes Distribués
+
+## Master SD FS MEKNES 2024
+
 
 
 1. Installer IntelliJ Ultimate

@@ -16,7 +16,7 @@
    
 
 6. avec la base de donnees h2:
-7. 
+ 
 8. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
 
 
@@ -130,10 +130,6 @@ on aura les resultats suivants:
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/04d95d40-fdaa-4e60-a676-5abeff240115)
 
  
-
-
-
-
 29. Tester quelques opérations de gestion de patients :
     - Ajouter des patients
     - Consulter tous les patients

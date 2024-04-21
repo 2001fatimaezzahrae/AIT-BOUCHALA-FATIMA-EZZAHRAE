@@ -16,9 +16,10 @@
    
 
 6. avec la base de donnees h2
-7. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
+7. 
+8. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
 
-8. 
+
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/de99ed48-4e56-4e10-8fb0-a35906ec3908)
 
 #### Pour utiliser base de donnes mySQl : 
@@ -68,7 +69,7 @@ on aura les resultats suivants:
 
 
 8. Créer l'entité JPA Patient ayant les attributs :
-9. 
+ 
        - id de type Long
    
        - nom de type String
@@ -86,14 +87,14 @@ on aura les resultats suivants:
    
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
 
-33. 
+    
 34. la classe Consultation
-35. 
+ 
 36. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
 
-37. 
+   
 38. la classe Medecin
-39. 
+ 
 40. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
 
 41. enum statutRDV
@@ -104,27 +105,26 @@ on aura les resultats suivants:
    
 
 10. Configurer l'unité de persistance dans le ficher application.properties
-11. 
+ 
 12. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/799236ec-bb40-4c49-8a5a-ff8bd0a14106)
 
 
-13. 
+ 
 14. Créer l'interface JPA Repository basée sur Spring data
-15. 
+    
 16. ##### fichier pom.xml
-17. 
+ 
 18. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/6c15cab7-0d9b-4461-9799-0c9215a96dce)
-19. 
+    
 20. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f205c880-f7e1-4e2b-ab94-571cd8db0953)
-21. 
+    
 22. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b5ee6061-41fe-427d-ad69-e558ab68368f)
-23. 
+ 
 24. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/908f1f64-9e2c-4140-86bc-836253389b37)
-25. 
+ 
 26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b860d05e-e8c9-422a-a9e0-e6e3ec0ea0b4)
 
-27. 
-28. 
+ 
 
 
 
@@ -138,9 +138,9 @@ on aura les resultats suivants:
     - supprimer un patient
    
 30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b1998612-36ed-4e3c-94ab-08525ac3a3e9)
-31. 
+    
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/acaeebf3-59a3-4938-a222-291e2f4b2ee3)
-33. 
+ 
 34. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b9d18d89-020e-4323-8cf7-a5f692af02fd)
 
 
@@ -172,9 +172,9 @@ on aura les resultats suivants:
    
    
 25. Migrer de H2 Database vers MySQL
-26. 
+ 
 27. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
-28. 
+    
 29. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
 
 30. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
@@ -185,21 +185,17 @@ on aura les resultats suivants:
 15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
 
 16. la classe role:
-17. 
+    
 18. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
 
 19. la classe user:
-20. 
+ 
 21. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
-22. 
+ 
 23. la classe UserController:
 24. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/a9647260-8d20-4737-b336-a717d4ed604c)
 
-25. 
-26. 
 
-
-27. 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/32a55f16-4f20-4ad5-910a-549dbe2cd751)
     - 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9de8f332-e59b-4a7d-85f3-debff619f40a)

@@ -1,4 +1,4 @@
-![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/dbc6d2ef-280e-43bf-bf87-0744d9315f8a)## Ait Bouchala Fatima Ezzahrae
+## Ait Bouchala Fatima Ezzahrae
 
 ## Activité Pratique N°2 - Spring Data JPA Hibernate
 

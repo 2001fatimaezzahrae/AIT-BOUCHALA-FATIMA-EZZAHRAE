@@ -15,7 +15,8 @@
 4. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9a11e2c1-c056-4946-ae0c-a3f8009fb663)
    
 
-6. avec la base de donnees h2
+6. avec la base de donnees h2:
+7. 
 8. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
 
 
@@ -23,14 +24,14 @@
 
 #### Pour utiliser base de donnes mySQl : 
 
-Ici on a ajouter les dependances de mySql
+Ici on a ajouter les dependances de mySql.
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8677d99e-7ab6-4b86-84f6-a9a35870cdee)
 
 
 On execute application on aura les resultats suivants :
 
-Et on obtient dans php myAdmin
+Et on obtient dans php myAdmin.
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/4616b810-9c4c-4b7f-97d1-561a2e574b0c)
 
@@ -51,7 +52,7 @@ Il donne les même résultats :
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7c47c2c9-af1d-4052-bd42-f7b8f1ebd218)
 
-la méthode traiter par prix :
+###### la méthode traiter par prix :
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/ef401859-fd48-40d3-988d-28deca1497b3)
 
@@ -82,21 +83,21 @@ on aura les resultats suivants:
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f27fbc78-44fd-412c-93df-19961716174d)
 
 
-   la classe RendezVous
+   ###### la classe RendezVous
    
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
 
     
- la classe Consultation
+ ###### la classe Consultation
  
 36. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
 
    
- la classe Medecin
+ ###### la classe Medecin
  
 40. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
 
- enum statutRDV
+ ###### l'enum statutRDV
  
 43. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/bfd91b3a-baa8-4676-a0db-77acf2680d8e)
 
@@ -123,7 +124,9 @@ on aura les resultats suivants:
  
 26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b860d05e-e8c9-422a-a9e0-e6e3ec0ea0b4)
 
-27. la classe UserController:
+#### la partie web:
+
+27. ###### la classe UserController:
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/04d95d40-fdaa-4e60-a676-5abeff240115)
 
  
@@ -171,6 +174,9 @@ on aura les resultats suivants:
 25. Migrer de H2 Database vers MySQL
  
 27. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
+
+28. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/84b71111-90b7-4982-9777-980b828fce8c)
+
     
 
 30. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
@@ -180,11 +186,11 @@ on aura les resultats suivants:
 
 15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
 
-16. la classe role:
+16. ###### la classe role:
     
 18. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
 
-19. la classe user:
+19. ###### la classe user:
  
 21. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
  

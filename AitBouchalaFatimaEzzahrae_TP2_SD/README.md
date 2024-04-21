@@ -12,7 +12,7 @@
 2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
 3. ona creer la classe Product:
 4. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9a11e2c1-c056-4946-ae0c-a3f8009fb663)
-5. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/57d2b2ff-8385-4a65-835f-19145a71efc5)
+   
 
 6. avec la base de donnees h2
 7. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
@@ -47,7 +47,7 @@ on aura les resultats suivants:
 
 
 ###### Web service  :
-
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/537517e4-fcbb-46ff-8963-25766833ece3)
 
 
 8. Créer l'entité JPA Patient ayant les attributs :

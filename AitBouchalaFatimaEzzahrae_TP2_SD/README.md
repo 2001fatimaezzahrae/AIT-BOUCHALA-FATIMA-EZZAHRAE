@@ -83,21 +83,21 @@ on aura les resultats suivants:
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f27fbc78-44fd-412c-93df-19961716174d)
 
 
-   ###### la classe RendezVous
+   ###### la classe RendezVous:
    
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
 
     
- ###### la classe Consultation
+ ###### la classe Consultation:
  
 36. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
 
    
- ###### la classe Medecin
+ ###### la classe Medecin:
  
 40. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
 
- ###### l'enum statutRDV
+ ###### l'enum statutRDV:
  
 43. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/bfd91b3a-baa8-4676-a0db-77acf2680d8e)
 

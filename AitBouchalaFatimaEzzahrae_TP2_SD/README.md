@@ -106,23 +106,27 @@ on excute on aura comme suivant:
 
 
 23. Migrer de H2 Database vers MySQL
+24. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
+25. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
 
-24. 
-25. 
-26. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
-27. la classe Patient
-28. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e2282bbb-10dc-4454-b448-4b4d43f185a4)
+28. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
+29. la classe Patient
+30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e2282bbb-10dc-4454-b448-4b4d43f185a4)
 
-29. la classe RendezVous
-30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
+31. la classe RendezVous
+32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
 
-31. 
-32. la classe Consultation
-33. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
+33. 
+34. la classe Consultation
+35. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
 
-34. 
-35. la classe Medecin
-36. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
+36. 
+37. la classe Medecin
+38. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
 
-37. 
+39. enum statutRDV
+40. 
+41. 
+
+42. 
 

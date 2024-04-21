@@ -58,27 +58,29 @@ on aura les resultats suivants:
        - dateNaissanec de type Date
        - malade de type boolean
        - score de type int
-      ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/c8cb05f9-734f-4e3c-8f24-a2b61692008d)
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f27fbc78-44fd-412c-93df-19961716174d)
+
+on excute on aura comme suivant:
+
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/fbc81b47-7876-419f-9f58-56117e6d72b3)
+
    
 
-
 10. Configurer l'unité de persistance dans le ficher application.properties
-11. 
-12. Créer l'interface JPA Repository basée sur Spring data
-13. 14. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/3b5fe733-6294-441d-b8c6-c1989a37054b)
-15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0e1fb39d-e482-472e-8f81-723cb13d0d94)
-16. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/649f9530-b8aa-48d1-9216-c212bbad5d9d)
-    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9e89dd4a-8659-4bad-b75c-5b7524465b1e)
-![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/600fbe2b-a5a7-46d5-b7e3-7151beec711f)
+11. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/81f41502-3dc8-465f-a6a9-059095240a02)
 
+12. 
+13. Créer l'interface JPA Repository basée sur Spring data
+14. ##### fichier pom.xml
 
+15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
 
+16. la classe role:
+17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
 
-
-        
-
-
-
+18. la classe user:
+19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
+20. 
 
 22. Tester quelques opérations de gestion de patients :
     - Ajouter des patients
@@ -87,5 +89,23 @@ on aura les resultats suivants:
     - Chercher des patients
     - Mettre à jour un patient 
     - supprimer un patient
+   
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/32a55f16-4f20-4ad5-910a-549dbe2cd751)
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9de8f332-e59b-4a7d-85f3-debff619f40a)
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/2b57b200-134d-41a0-9a94-8118bec502eb)
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8abfbc20-221c-43ec-80cb-bfe083e2c3e9)
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/91147e58-d338-493b-ae9f-d979d72bc734)
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7e4fdb42-f14b-457e-bdf4-18e998de2e74)
+   
+    - Apres exécution :
+    - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9a8adcd2-f2ca-482f-9f01-e492e3e00db6)
+
+
+    - 
+
+
+
+
+
 23. Migrer de H2 Database vers MySQL
 24. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo : 

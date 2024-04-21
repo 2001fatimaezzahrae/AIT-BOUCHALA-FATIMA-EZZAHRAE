@@ -61,9 +61,6 @@ on aura les resultats suivants:
        - score de type int
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f27fbc78-44fd-412c-93df-19961716174d)
 
-on excute on aura comme suivant:
-
-   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/fbc81b47-7876-419f-9f58-56117e6d72b3)
 
    la classe RendezVous
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
@@ -111,12 +108,21 @@ on excute on aura comme suivant:
    
 23. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b1998612-36ed-4e3c-94ab-08525ac3a3e9)
 
+24. on excute on aura comme suivant:
+
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/fbc81b47-7876-419f-9f58-56117e6d72b3)
    
 
 
-24. Migrer de H2 Database vers MySQL
-25. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
-26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
+
+
+
+   
+
+
+25. Migrer de H2 Database vers MySQL
+26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
+27. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
 
 28. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
 29. la classe Patient

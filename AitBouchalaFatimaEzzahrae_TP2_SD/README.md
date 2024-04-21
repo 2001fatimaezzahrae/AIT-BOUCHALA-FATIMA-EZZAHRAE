@@ -20,8 +20,10 @@
 8. 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/de99ed48-4e56-4e10-8fb0-a35906ec3908)
 
-####Pour utiliser base de donnes mySQl : 
+#### Pour utiliser base de donnes mySQl : 
 Ici on a ajouter les dependances de mySql
+![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/8677d99e-7ab6-4b86-84f6-a9a35870cdee)
+
 
 On execute application on aura les resultats suivants :
 Et on obtient dans php myAdmin

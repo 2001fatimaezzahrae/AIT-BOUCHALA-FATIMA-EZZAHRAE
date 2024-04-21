@@ -123,6 +123,9 @@ on aura les resultats suivants:
  
 26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b860d05e-e8c9-422a-a9e0-e6e3ec0ea0b4)
 
+27. la classe UserController:
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/04d95d40-fdaa-4e60-a676-5abeff240115)
+
  
 
 
@@ -163,11 +166,6 @@ on aura les resultats suivants:
 
 
 
-   la classe UserController:
-
-
-   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/04d95d40-fdaa-4e60-a676-5abeff240115)
-
    
    
 25. Migrer de H2 Database vers MySQL
@@ -190,8 +188,6 @@ on aura les resultats suivants:
  
 21. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
  
-23. la classe UserController:
-24. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/a9647260-8d20-4737-b336-a717d4ed604c)
 
 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/32a55f16-4f20-4ad5-910a-549dbe2cd751)
@@ -205,6 +201,11 @@ on aura les resultats suivants:
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/91147e58-d338-493b-ae9f-d979d72bc734)
     - 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7e4fdb42-f14b-457e-bdf4-18e998de2e74)
+   
+    - La partie web :
+   
+    -  la classe UserController:
+       ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/a9647260-8d20-4737-b336-a717d4ed604c)
    
     - Apres exécution :
     - 

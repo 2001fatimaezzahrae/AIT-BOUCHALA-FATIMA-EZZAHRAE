@@ -65,6 +65,21 @@ on excute on aura comme suivant:
 
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/fbc81b47-7876-419f-9f58-56117e6d72b3)
 
+   la classe RendezVous
+32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
+
+33. 
+34. la classe Consultation
+35. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
+
+36. 
+37. la classe Medecin
+38. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
+
+39. enum statutRDV
+40. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/bfd91b3a-baa8-4676-a0db-77acf2680d8e)
+
+
    
 
 10. Configurer l'unité de persistance dans le ficher application.properties
@@ -79,15 +94,9 @@ on excute on aura comme suivant:
 17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b5ee6061-41fe-427d-ad69-e558ab68368f)
 18. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/908f1f64-9e2c-4140-86bc-836253389b37)
 19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b860d05e-e8c9-422a-a9e0-e6e3ec0ea0b4)
+
 20. 
-
-
-
-
-    
-
-
-    
+21. 
 
 
 
@@ -100,6 +109,31 @@ on excute on aura comme suivant:
     - Mettre à jour un patient 
     - supprimer un patient
    
+23. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b1998612-36ed-4e3c-94ab-08525ac3a3e9)
+
+   
+
+
+24. Migrer de H2 Database vers MySQL
+25. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
+26. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
+
+28. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
+29. la classe Patient
+30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e2282bbb-10dc-4454-b448-4b4d43f185a4)
+ 
+
+42.  ##### fichier pom.xml
+
+15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
+
+16. la classe role:
+17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
+
+18. la classe user:
+19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
+
+20. 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/32a55f16-4f20-4ad5-910a-549dbe2cd751)
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/9de8f332-e59b-4a7d-85f3-debff619f40a)
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/2b57b200-134d-41a0-9a94-8118bec502eb)
@@ -113,38 +147,4 @@ on excute on aura comme suivant:
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/895a34d6-9fa3-4865-9319-e3efe6fb1b65)
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/00afdfd9-5263-488b-b290-5943773eaca5
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/a986bad8-ae49-4c4b-b291-75d867dbc3c0)
-
-
-23. Migrer de H2 Database vers MySQL
-24. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
-25. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
-
-28. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
-29. la classe Patient
-30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e2282bbb-10dc-4454-b448-4b4d43f185a4)
-
-31. la classe RendezVous
-32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
-
-33. 
-34. la classe Consultation
-35. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
-
-36. 
-37. la classe Medecin
-38. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
-
-39. enum statutRDV
-40. 
-41. 
-
-42.  ##### fichier pom.xml
-
-15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
-
-16. la classe role:
-17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
-
-18. la classe user:
-19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
 

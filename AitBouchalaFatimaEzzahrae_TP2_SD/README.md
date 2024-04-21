@@ -16,7 +16,6 @@
    
 
 6. avec la base de donnees h2
-7. 
 8. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/1a1d9939-c2c5-4e4c-8ebb-7556eebc78e0)
 
 
@@ -42,17 +41,17 @@ Si on exécute une autre fois on obtient le suivant :
 
 #### Autres méthodes :
 
-######## La 1ere solution avec methode findBy
+###### La 1ere solution avec methode findBy
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/92cb7e18-931c-43d3-b502-69a40688fe86)
 
-####### 2eme méthode :
+###### 2eme méthode :
 
 Il donne les même résultats :
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7c47c2c9-af1d-4052-bd42-f7b8f1ebd218)
 
-####### Avec méthode traiter par prix :
+la méthode traiter par prix :
 
 ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/ef401859-fd48-40d3-988d-28deca1497b3)
 
@@ -88,17 +87,17 @@ on aura les resultats suivants:
 32. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/10917ac7-d6f3-4e62-bbcc-0a276eab261f)
 
     
-34. la classe Consultation
+ la classe Consultation
  
 36. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7f39379f-bc17-4def-ba7f-10aff51bcf6e)
 
    
-38. la classe Medecin
+ la classe Medecin
  
 40. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/887960c4-a08d-47c4-800b-07abb116b578)
 
-41. enum statutRDV
-42. 
+ enum statutRDV
+ 
 43. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/bfd91b3a-baa8-4676-a0db-77acf2680d8e)
 
 
@@ -175,7 +174,6 @@ on aura les resultats suivants:
  
 27. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b72227b2-b5c2-4166-9400-7c1baa68b0be)
     
-29. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
 
 30. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
 

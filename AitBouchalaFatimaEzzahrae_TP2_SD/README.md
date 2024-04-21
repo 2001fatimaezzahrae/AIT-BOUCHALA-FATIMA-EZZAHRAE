@@ -111,6 +111,25 @@ on aura les resultats suivants:
 24. on excute on aura comme suivant:
 
    ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/fbc81b47-7876-419f-9f58-56117e6d72b3)
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/3f57119d-c9af-4f78-9f36-2c264d807354)
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/67fae4d3-f303-4661-ac66-b1f2a90460ae)
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e17710c4-efdf-493a-a3dd-b847368f7235)
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/94a59cee-b293-4038-980b-1875098396e2)
+
+
+   La listes des patients :
+
+   ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/4e2da5a6-a8ff-43e6-ac9b-70f3b1bad835)
+   
+
+
+
+
+   
+
+   
+   
+
    
 
 
@@ -125,9 +144,7 @@ on aura les resultats suivants:
 27. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/0386df61-ca6c-4cd7-9191-9e98914b0eef)
 
 28. Reprendre les exemples  du Patient, Médecin, rendez-vous, consultation, users et roles de la vidéo :
-29. la classe Patient
-30. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/e2282bbb-10dc-4454-b448-4b4d43f185a4)
- 
+
 
 42.  ##### fichier pom.xml
 

@@ -204,9 +204,9 @@ on aura les resultats suivants:
     - 
     - ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7e4fdb42-f14b-457e-bdf4-18e998de2e74)
    
-    - La partie web :
+    - ###### La partie web :
    
-    -  la classe UserController:
+    -  ######## la classe UserController:
        ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/a9647260-8d20-4737-b336-a717d4ed604c)
    
     - Apres exécution :

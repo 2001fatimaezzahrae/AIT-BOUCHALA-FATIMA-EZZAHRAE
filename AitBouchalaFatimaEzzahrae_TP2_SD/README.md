@@ -68,20 +68,29 @@ on excute on aura comme suivant:
    
 
 10. Configurer l'unité de persistance dans le ficher application.properties
-11. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/81f41502-3dc8-465f-a6a9-059095240a02)
+11. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/799236ec-bb40-4c49-8a5a-ff8bd0a14106)
+
 
 12. 
 13. Créer l'interface JPA Repository basée sur Spring data
 14. ##### fichier pom.xml
-
-15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
-
-16. la classe role:
-17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
-
-18. la classe user:
-19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
+15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/6c15cab7-0d9b-4461-9799-0c9215a96dce)
+16. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/f205c880-f7e1-4e2b-ab94-571cd8db0953)
+17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b5ee6061-41fe-427d-ad69-e558ab68368f)
+18. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/908f1f64-9e2c-4140-86bc-836253389b37)
+19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/b860d05e-e8c9-422a-a9e0-e6e3ec0ea0b4)
 20. 
+
+
+
+
+    
+
+
+    
+
+
+
 
 22. Tester quelques opérations de gestion de patients :
     - Ajouter des patients
@@ -129,5 +138,13 @@ on excute on aura comme suivant:
 40. 
 41. 
 
-42. 
+42.  ##### fichier pom.xml
+
+15. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/496c9989-dbb8-480b-a7e2-d5548b3c12a9)
+
+16. la classe role:
+17. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/7b3ed16f-0039-4bab-b2f0-656f17cf2257)
+
+18. la classe user:
+19. ![image](https://github.com/2001fatimaezzahrae/AIT-BOUCHALA-FATIMA-EZZAHRAE/assets/152180866/5ed2699f-27b7-4af7-9890-bce028cfd433)
 
